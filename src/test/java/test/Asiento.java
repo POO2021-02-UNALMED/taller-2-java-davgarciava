@@ -1,6 +1,6 @@
 package test;
 
-class Asiento {
+public class Asiento {
 	String color;
 	int precio;
 	int registro;
