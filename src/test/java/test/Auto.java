@@ -1,6 +1,6 @@
 package test;
 
-public class Autos {
+public class Auto {
 	String modelo;
 	int precio;
 	Asiento[] asientos;
